@@ -16,6 +16,7 @@ My personal blog is at [ido50.net](https://ido50.net/).
 | [requests](https://github.com/ido50/requests)                | Go         | lib     | API-centric HTTP client                          |
 | [aiac](https://github.com/gofireflyio/aiac)                  | Go         | exe     | AI-generated IaC files                           |
 | [lmdrouter](https://github.com/aquasecurity/lmdrouter)       | Go         | lib     | HTTP router for AWS Lambda functions             |
+| [mccs](https://github.com/ido50/mccs)                        | Perl       | exe/lib | Fully-featured static file server                |
 | [esquery](https://github.com/aquasecurity/esquery)           | Go         | lib     | Query builder for ElasticSearch                  |
 | [WWW::Postmark](https://github.com/ido50/WWW-Postmark)       | Perl       | lib     | Client library for postmarkapp.com email service |
 | [Svsh](https://github.com/ido50/Svsh)                        | Perl       | exe     | Process supervision shell                        |
